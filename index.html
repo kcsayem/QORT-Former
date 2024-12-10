@@ -24,7 +24,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-  <title>Academic Project Page</title>
+  <title>QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects</title>
   <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
   rel="stylesheet">
@@ -165,7 +165,7 @@
         <!-- Your image here -->
         <img src="static/images/QORT-modified_arch.png" alt="Architecture"/>
         <h2 class="subtitle has-text-centered">
-          Our architecture begins with extracting a multi-scale feature f from an image using ResNet-50 (He et al. 2016), which is then refined into f ′ by our feature decoder. We propose queries aligned with hand and object locations, incorporating contact map features, while auxiliary queries capture background details. In the QORT Transformer decoder, enhanced and query features undergo three steps: 1) Cross-attention updates the enhanced feature based on integrated query features in Enhanced Feature Update Block, 2) Location-based Feature Extraction module adds feature maps of 3 × 3 patches around coarse 2D hand and object keypoints to Enhanced Feature, and 3) Cross and self-attention layers update the integrated query features based on updated enhanced features in Query Feature Update Block. Finally, the heads estimate poses for both hands and the object.
+          Our architecture begins with extracting a multi-scale feature f from an image using ResNet-50, which is then refined into f ′ by our feature decoder. We propose queries aligned with hand and object locations, incorporating contact map features, while auxiliary queries capture background details. In the QORT Transformer decoder, enhanced and query features undergo three steps: 1) Cross-attention updates the enhanced feature based on integrated query features in Enhanced Feature Update Block, 2) Location-based Feature Extraction module adds feature maps of 3 × 3 patches around coarse 2D hand and object keypoints to Enhanced Feature, and 3) Cross and self-attention layers update the integrated query features based on updated enhanced features in Query Feature Update Block. Finally, the heads estimate poses for both hands and the object.
         </h2>
       </div>
       <div class="item">
