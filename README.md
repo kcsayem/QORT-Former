@@ -1,4 +1,4 @@
-# QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects
+# QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects (AAAI 2025)
 ## Installation
 ```bash
 git clone https://github.com/kcsayem/QORT-Former.git
