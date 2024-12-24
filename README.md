@@ -10,7 +10,7 @@ git clone https://github.com/kcsayem/QORT-Former.git
 ```bash
 conda create -n "qort_former" python=3.10
 ```
-## Install pytorch
+## Install PyTorch
 ```bash
 conda install pytorch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 pytorch-cuda=11.6 -c pytorch -c nvidia
 ```
