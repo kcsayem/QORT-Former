@@ -1,4 +1,4 @@
-# QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects (AAAI 2025)
+# [AAAI 2025] QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects
 [Elkhan Ismayilzada](https://elkhanzada.github.io/)\*, [MD Khalequzzaman Chowdhury Sayem](https://kcsayem.github.io/)\*,  [Yihalem Yimolal Tiruneh](http://linkedin.com/in/yihalem-yimolal-tiruneh-852aab198), [Mubarrat Tajoar Chowdhury](https://sites.google.com/view/mubarrat-chowdhury), [Muhammadjon Boboev](https://sites.google.com/view/boboevm/home), [Seungryul Baek](https://sites.google.com/site/bsrvision00/)
 
 <sub>\* Equal contribution.</sub>
