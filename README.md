@@ -2,6 +2,8 @@
 [Elkhan Ismayilzada](https://elkhanzada.github.io/)\*, [MD Khalequzzaman Chowdhury Sayem](https://kcsayem.github.io/)\*,  [Yihalem Yimolal Tiruneh](http://linkedin.com/in/yihalem-yimolal-tiruneh-852aab198), [Mubarrat Tajoar Chowdhury](https://sites.google.com/view/mubarrat-chowdhury), [Muhammadjon Boboev](https://sites.google.com/view/boboevm/home), [Seungryul Baek](https://sites.google.com/site/bsrvision00/)
 
 <sub>\* Equal contribution.</sub>
+
+[![arXiv](https://img.shields.io/badge/arXiv-2502.19769-5CB338)](https://arxiv.org/pdf/2502.19769)  [![Website shields.io](https://img.shields.io/badge/website-up-3E7B27)](https://kcsayem.github.io/QORT-Former/)
 ## Installation
 ```bash
 git clone https://github.com/kcsayem/QORT-Former.git
