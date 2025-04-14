@@ -35,3 +35,16 @@ This repository is based on
 * [H2OTR](https://github.com/chohoseong/H2OTR)
 * [GraFormer](https://github.com/Graformer/GraFormer/)
 * [DETR](https://github.com/facebookresearch/detr)
+## Citing
+```bibtex
+@inproceedings{ismayilzada2025qort,
+  title={QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects},
+  author={Ismayilzada, Elkhan and Sayem, MD Khalequzzaman Chowdhury and Tiruneh, Yihalem Yimolal and Chowdhury, Mubarrat Tajoar and Boboev, Muhammadjon and Baek, Seungryul},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={4},
+  pages={3895--3903},
+  year={2025}
+}
+```
+
